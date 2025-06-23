@@ -3,4 +3,5 @@ Module Blender pour modifier les données graphiques du jeu [Landes Eternelles](
 - Objets 3D (e3d)
 - Images par terre (2d0)
 - Cartes (elm)
+
 Testé sous Blender 4.4 avec Python 3.11.5 et numpy 2.2.4. Versions anciennes auraient peut-être besoin de palliatifs.
