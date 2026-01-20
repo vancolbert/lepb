@@ -3,5 +3,9 @@ Blender import/export addon for [Landes Eternelles](http://www.landes-eternelles
 - 3D object meshes (e3d)
 - 2D ground decals (2d0)
 - Maps (elm)
+- Cal3D meshes (cmf)
+- Cal3D skeletons (csf)
+- Cal3D animations (caf)
+- Model definitions (actor_defs xml)
 
-Tested on Blender 4.4 with Python 3.11.5 and numpy 2.2.4. Older versions may require workarounds.
+Tested on Blender 5.0 with Python 3.11.13 and numpy 1.26.4. Older versions may require workarounds.
